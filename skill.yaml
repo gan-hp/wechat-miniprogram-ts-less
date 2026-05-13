@@ -1,0 +1,9 @@
+wechat-miniprogram-ts-less/
+├── skill.yaml          # Trae 入口配置
+├── prompt.md           # AI 行为约束
+├── rules/              # 语法规则
+│   ├── ts-rules.md
+│   ├── wxml-rules.md
+│   └── less-rules.md
+└── examples/           # 示例代码
+    └── component-example.md
